@@ -3,43 +3,78 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Fun Events</title>
+  <title>Dance Events</title>
   <link rel="manifest" href="/SwingTrail/manifest.json">
   <meta name="theme-color" content="#4f46e5"/>
+  <!-- link style.css -->
   <link rel="stylesheet" href="style.css">
 </head>
+
 <a href="index.html" id="backBtn">← Home</a>
 <body>
-  <h1>Upcoming Dance Events</h1>
+  <header>Upcoming Dance Events</header>
+
+  <div class="controls">
+  <input type="text" class="search-input" placeholder="Search events...">
+  <select>
+    <option>All Styles</option>
+    <option>Country Swing</option>
+    <option>WCS</option>
+  </select>
+  <select>
+    <option>All Locations</option>
+    <option>AZ</option>
+    <option>CA</option>
+    <option>OR</option>
+    <option>TX</option>
+    <option>VA</option>
+   
+  </select>
+</div>
+
+<div class="grid"></div>
 
   <div class="event-card">
     <a href="https://www.danceplace.com/index/no/14657/PNW+Stompede+Dance+Festival+-2026-Tigard_+OR-United+States-Country+Dance+event">
       <img src="images/pnw.webp" alt="pnw">
+      <div class="event-content">
+        <div class="event-title">PNW Stompede Dance Festival</div>
+        <div class="event-date">Jan 16-18 • Tigard, OR</div>
+        <div class="event-tags">
+          <div class="tag">NCDC</div>
+          <div class="tag">Country Swing</div>
+        </div>
     </a>
-    <h2>PNW Stompede Dance Festival
-    </h2>
-    <p>Jan 16-18</p>
-    <p>NCDC</p>
   </div>
 
   <!-- Add more event cards here -->
-   <div class="event-card">
+  <div class="event-card">
     <a href="https://www.danceplace.com/index/no/16175/Country+Cool+Down+-2026-Norfolk_+VA-United+States-Country+Dance+event">
       <img src="images/dogwood.png" alt="dw">
+      <div class="event-content">
+        <div class="event-title">Country Cooldown</div>
+        <div class="event-date">Jan 23-25 • Norfolk, VA</div>
+        <div class="event-tags">
+          <div class="tag">CSDC</div>
+          <div class="tag">Country Swing</div>
+        </div>
     </a>
-    <h2>Country Cooldown
-    </h2>
-    <p>Jan 23-25</p>
-    <p>CSDC</p>
   </div>
 
   <div class="event-card">
-    <img src="images/csc.jpg" alt="csc">
-    <h2>Capital Swing Convention
-    </h2>
-    <p>Feb 12-15</p>
-    <p>CSDC</p>
+    <a href="https://www.danceplace.com/index/no/16175/Country+Cool+Down+-2026-Norfolk_+VA-United+States-Country+Dance+event">
+      <img src="images/csc.jpg" alt="csc">
+      <div class="event-content">
+        <div class="event-title">Capital Swing Convention</div>
+        <div class="event-date">Feb 12-15 • Sacramento, CA</div>
+        <div class="event-tags">
+          <div class="tag">CSDC</div>
+          <div class="tag">WCS</div>
+        </div>
+    </a>
   </div>
+
+
 
   <div class="event-card">
     <a href="https://www.danceplace.com/index/no/15978/The+Bay+Area+Dance+Event-2026-Dublin_+CA-United+States-Country+Dance+event">
@@ -422,5 +457,6 @@
   <a href="index.html" class="back">← Back</a>
 
   <script src="app.js"></script>
+  <script src="search.js"></script>
 </body>
 </html>

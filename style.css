@@ -1,3 +1,4 @@
+
 body {
   font-family: system-ui, -apple-system, sans-serif;
   margin: 0;
@@ -6,6 +7,7 @@ body {
   text-align: center;
   min-height: 100vh;
 }
+
 
 h1 { color: #4f46e5; }
 
@@ -146,3 +148,63 @@ textarea {
   transform: scale(1.05);
   opacity: 0.9;
 }
+
+
+.grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 32px;
+      padding: 20px 40px 40px;
+    }
+
+
+  header {
+      padding: 20px 40px;
+      font-size: 1.8rem;
+      font-weight: 700;
+      background: white;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+
+    .event-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 18px 40px rgba(153, 6, 6, 0.15);
+    }
+
+  
+
+    .event-content {
+      padding: 30px;
+    }
+
+    .event-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 6px;
+    }
+
+    .event-date {
+      font-size: 0.9rem;
+      color: #777;
+      margin-bottom: 8px;
+    }
+
+    .event-tags {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .tag {
+      font-size: 0.7rem;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: linear-gradient(135deg, #ff7a18, #ffb347);
+      color: white;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+  
