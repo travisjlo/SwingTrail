@@ -1,0 +1,339 @@
+[
+  {
+    "title": "PNW Stompede Dance Festival",
+    "date": "Jan 16-18",
+    "style": ["MCS", "NCDC"],
+    "tags": ["Country Swing", "NCDC"],
+    "image": "images/pnw.webp",
+    "link": "https://www.danceplace.com/index/no/14657/PNW+Stompede+Dance+Festival+-2026-Tigard_+OR-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Country Cooldown",
+    "date": "Jan 23-25",
+    "style": ["MCS", "CSDC"],
+    "tags": ["Country Swing", "CSDC"],
+    "image": "images/dogwood.png",
+    "link": "https://www.danceplace.com/index/no/16175/Country+Cool+Down+-2026-Norfolk_+VA-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Capital Swing Convention",
+    "date": "Feb 12-15",
+    "style": ["WCS", "CSDC"],
+    "tags": ["WCS", "CSDC"],
+    "image": "images/csc.jpg",
+    "link": "https://www.capitalswingconvention.com/registration.html"
+  },
+  {
+    "title": "Bay Area Dance Event",
+    "date": "Feb 20-22",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/bade.png",
+    "link": "https://www.danceplace.com/index/no/15978/The+Bay+Area+Dance+Event-2026-Dublin_+CA-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Shoreline Low Tide",
+    "date": "Feb 20-22",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/sllt.png",
+    "link": "https://www.danceplace.com/index/no/14471/ShoreLINE+_+Country+Swing+LOW+TIDE-February+2026-Sanford_+FL-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Denim & Diamonds Shinedown",
+    "date": "Feb 27-Mar 1",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/dnd.jpg",
+    "link": "https://www.danceplace.com/index/no/15177/Misschif_s+Denim+_+Diamonds+Shinedown-2026-Knoxville_+TN-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Steal A Dance",
+    "date": "Mar 5-8",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/sad.png",
+    "link": "https://www.danceplace.com/index/no/15844/Steal+A+Dance+Convention-2026-Tucson_+AZ-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Forever Country Dance Jam",
+    "date": "Mar 12-15",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/fcdj.png",
+    "link": "https://www.danceplace.com/index/no/16131/Forever+Country+Dance+Jam-2026-Dallas_+Tx-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Edge Dance Fest",
+    "date": "Mar 27-29",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/edge.png",
+    "link": "https://www.danceplace.com/index/no/15022/The+Edge+Dance+Event-2026-Temecula_+CA-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Tucson Dance Festival",
+    "date": "Apr 2-5",
+    "style": ["WCS", "NCDC"],
+    "tags": ["WCS", "NCDC"],
+    "image": "images/tdf.png",
+    "link": "https://tucsondancefestival.com/register"
+  },
+  {
+    "title": "Sunshine 'N Line",
+    "date": "Apr 2-5",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/snl.png",
+    "link": "https://sunshinenline.com/buy-tickets/"
+  },
+  {
+    "title": "Calgary Dance Stampede",
+    "date": "Apr 9-12",
+    "style": ["WCS", "NCDC"],
+    "tags": ["WCS", "NCDC"],
+    "image": "images/cds.png",
+    "link": "https://www.countrydancedirector.com/CalgaryDanceStampede/SignIn.aspx"
+  },
+  {
+    "title": "Love Your Dance Spring Workshop & Comp",
+    "date": "Apr 18",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/LYD.png",
+    "link": "https://www.danceplace.com/index/no/16569/Love+Your+Dance+Spring+Workshop+_+Competition-2026-Boulder_+CO-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Stoney's Dance Showdown Q1",
+    "date": "Apr 26",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/Stoneys.jpg",
+    "link": "https://www.tixr.com/groups/stoneysrockincountry/events/stoney-s-dance-showdown-qualifier-round-1-181814"
+  },
+  {
+    "title": "Dance Nash Aftermath",
+    "date": "May 8-10",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/dna.png",
+    "link": "https://www.danceplace.com/index/no/16408/DNA-2026-Nashville_+TN-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Country May Day",
+    "date": "May 1-3",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/qc.png",
+    "link": "https://www.danceplace.com/index/no/16374/QC+Swing+_+Country+May+Day-2026-Charlotte_+NC-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Rowdy Fest",
+    "date": "May 16-17",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/RFD.png",
+    "link": "https://www.danceplace.com/index/no/14814/Zoo+Crew+Dance+Rowdy+Fest-2026-Flagstaff_+AZ-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Boots On The Coast",
+    "date": "May 29-31",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/boots.png",
+    "link": "https://www.danceplace.com/index/no/16422/Boots+On+The+Coast-2026-Long+Beach_+CA-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "The Showdown",
+    "date": "June 12-14",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/showdown.png",
+    "link": "https://www.danceplace.com/index/no/16423/The+Showdown+-2026-Raleigh_+NC-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Swivel & Swing Dance Event",
+    "date": "June 12-14",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/SAS.png",
+    "link": "https://www.danceplace.com/index/no/15680/Swivel+and+Swing-2026-Loveland_+CO-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Shoreline High Tide",
+    "date": "June 19-21",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/sllt.png",
+    "link": "https://www.danceplace.com/index/no/15429/ShoreLINE+_+Country+Swing+High+Tide-2026-Sanford_+FL-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Stoney's Dance Showdown Q2",
+    "date": "June 21",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/Stoneys.jpg",
+    "link": ""
+  },
+  {
+    "title": "St.Louis Stomp",
+    "date": "Jun 26-28",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/sls.png",
+    "link": "https://www.danceplace.com/index/no/16157/St_+Louis+Stomp-2026-St+Louis_+MO-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Yesss!! Nationals",
+    "date": "Jul 16-19",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/Yesss.png",
+    "link": "https://www.danceplace.com/index/no/15609/YESSS__+Dance+Convention+_+National+Competition-2026-Scottsdale_+AZ-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Florida Dance Magic",
+    "date": "Jul 24-26",
+    "style": ["WCS", "CSDC"],
+    "tags": ["WCS", "CSDC"],
+    "image": "images/fdm.png",
+    "link": "https://floridadancemagic.com/registration/"
+  },
+  {
+    "title": "Forever Country Dance Splash",
+    "date": "Jul 24-26",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/fcdj.png",
+    "link": "https://www.danceplace.com/index/no/16727/Forever+Country+Dance+Splash-2026-Irving_+TX-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Arizona Dance Classic",
+    "date": "Jul 30-Aug 2",
+    "style": ["WCS", "NCDC"],
+    "tags": ["WCS", "NCDC"],
+    "image": "images/adc.png",
+    "link": "https://arizonadanceclassic.com/registration"
+  },
+  {
+    "title": "Dogwood Heatwave",
+    "date": "Jul 30-Aug 2",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/heatwave.png",
+    "link": "https://www.danceplace.com/index/no/16741/Heatwave-2026-Norfolk_+VA-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Beehive State Dance Event",
+    "date": "Aug 21-22",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/beehive.png",
+    "link": ""
+  },
+  {
+    "title": "Tails California",
+    "date": "Aug 28-30",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/talis.png",
+    "link": "https://www.danceplace.com/index/no/15066/Tails+California-2026-San+Francisco_+CA-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Nashville Dance Fest",
+    "date": "Sep 4-6",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/ndf.png",
+    "link": ""
+  },
+  {
+    "title": "Utah Dance Fest",
+    "date": "Sep 17-20",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/udf.png",
+    "link": "https://www.danceplace.com/index/no/15853/Utah+Dance+Fest-2026-Orem_+UT-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Sac Town Hoedown",
+    "date": "Sep 25-27",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/sth.jpg",
+    "link": "https://www.danceplace.com/index/no/15915/Sac+Town+Hoedown+and+Fall+Festival-2026-Sacramento_+CA-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Moovmnt",
+    "date": "Sep 25-27",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/moo.png",
+    "link": "https://www.danceplace.com/index/no/15884/MOOVMNT-2026-Wake+Forest_+NC-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Calgary Town Open",
+    "date": "Sep 24-27",
+    "style": ["WCS", "CSDC"],
+    "tags": ["WCS", "CSDC"],
+    "image": "images/calg.png",
+    "link": ""
+  },
+  {
+    "title": "Stoney's Dance Showdown Q3",
+    "date": "Sep 27",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/Stoneys.jpg",
+    "link": ""
+  },
+  {
+    "title": "Swingtober",
+    "date": "Oct 9-11",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/swingtober.png",
+    "link": ""
+  },
+  {
+    "title": "Shinedown In The Shadows",
+    "date": "Oct 16-18",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/shinedown.png",
+    "link": "https://www.danceplace.com/index/no/16267/Shinedown+In+The+Shadows-2026-Jacksonville_+NC-United+States-Country+Dance+event"
+  },
+  {
+    "title": "East Idaho Stomp Comp",
+    "date": "Oct 23-25",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/stompcomp.png",
+    "link": "https://www.danceplace.com/index/no/16057/Stomp+Comp-2026-Rexburg_+ID-United+States-Country+Dance+event"
+  },
+  {
+    "title": "Spooky Swing",
+    "date": "Oct 30 - Nov 1",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/spooky.png",
+    "link": "https://www.danceplace.com/index/no/16028/Salt+Lake+Spooky+Swing-2026-Salt+Lake+City_+UT-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Country Swing Revolution",
+    "date": "Nov 13-15",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/csrev.png",
+    "link": "https://www.danceplace.com/index/no/16115/Country+Swing+Revolution-2026-Boston_+MA-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Forever Country Dance Fest",
+    "date": "Nov 19-22",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/fcdj.png",
+    "link": "https://www.danceplace.com/index/no/16710/Forever+Country+Dance+Fest-2026-Dallas_+Tx-United+States-Country+Dance+event"
+  }
+
+]

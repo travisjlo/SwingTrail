@@ -3,13 +3,14 @@ const CACHE_NAME = 'my-pwa-v1';
 const urlsToCache = [
   '/SwingTrail/',
   '/SwingTrail/index.html',
-  '/SwingTrail/pair.html',
+  '/SwingTrail/jack-n-jill.html',
+  '/SwingTrail/dance-cal.html',
   '/SwingTrail/events.html',
   '/SwingTrail/style.css',
   '/SwingTrail/app.js',
   '/SwingTrail/manifest.json',
   '/SwingTrail/icons/icon-192.png',
-  '/SwingTrail/icons/icon-512.png'
+  '/SwingTrail/icons/icon-512.png',
 ];
 
 self.addEventListener('install', event => {

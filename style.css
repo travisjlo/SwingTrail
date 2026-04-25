@@ -9,8 +9,6 @@ body {
 }
 
 
-h1 { color: #4f46e5; }
-
 .buttons {
   display: flex;
   flex-direction: column;
@@ -113,6 +111,11 @@ textarea {
   max-width: 500px;
 }
 
+.event-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 18px 40px rgba(0,0,0,0.15);
+}
+
 .event-card img {
   width: 100%;
   height: 220px;
@@ -149,14 +152,7 @@ textarea {
   opacity: 0.9;
 }
 
-
-.grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-      gap: 32px;
-      padding: 20px 40px 40px;
-    }
-
+/*end of orginal css^^^*/
 
   header {
       padding: 20px 40px;
@@ -171,33 +167,102 @@ textarea {
       box-shadow: 0 18px 40px rgba(153, 6, 6, 0.15);
     }
 
+    .controls {
+      display: flex;
+      gap: 12px;
+      padding: 20px 40px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .search-input {
+      padding: 10px 14px;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+      font-size: 0.95rem;
+      min-width: 220px;
+    }
+
+    .filter-btn {
+      padding: 8px 14px;
+      border-radius: 999px;
+      border: 1px solid #ddd;
+      cursor: pointer;
+      background: white;
+      transition: 0.2s;
+    }
+
+    .filter-btn.active {
+      background: #ff7a18;
+      color: white;
+      border-color: #ff7a18;
+    }
+
+    .list {
+      display: flex;
+      flex-direction: column;
+      gap: 22px;
+      padding: 30px 48px 60px;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+
+    .event-card {
+      width: 100%;
+      max-width: 900px;
+      margin: 0 auto;
+      border-radius: 20px;
+      overflow: hidden;
+      background: #fff;
+      box-shadow: 0 12px 30px rgba(0,0,0,0.10);
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
+    }
+
   
+    .event-card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 20px 50px rgba(0,0,0,0.18);
+    }
+
+    .event-card img {
+      width: 100%;
+      height: 240px;
+      object-fit: cover;
+      display: block;
+    }
 
     .event-content {
-      padding: 30px;
+      padding: 20px;
+      min-height: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
     }
 
     .event-title {
-      font-size: 1.1rem;
-      font-weight: 600;
-      margin-bottom: 6px;
-    }
-
-    .event-date {
-      font-size: 0.9rem;
-      color: #777;
+      font-size: 1.4rem;
+      font-weight: 700;
       margin-bottom: 8px;
     }
 
-    .event-tags {
+   .event-date {
+      font-size: 1.4rem;
+      color: #777;
+      margin-bottom: 10px;
+    }
+
+     .event-tags {
       display: flex;
-      gap: 6px;
+      gap: 8px;
       flex-wrap: wrap;
     }
 
     .tag {
-      font-size: 0.7rem;
-      padding: 4px 8px;
+      font-size: 0.8rem;
+      padding: 6px 10px;
       border-radius: 999px;
       background: linear-gradient(135deg, #ff7a18, #ffb347);
       color: white;
