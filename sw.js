@@ -1,15 +1,15 @@
  // Very basic service worker - cache important files
 const CACHE_NAME = 'my-pwa-v1';
 const urlsToCache = [
-  '/dance-app/',
-  '/dance-app/index.html',
-  '/dance-app/pair.html',
-  '/dance-app/events.html',
-  '/dance-app/style.css',
-  '/dance-app/app.js',
-  '/dance-app/manifest.json',
-  '/dance-app/icons/icon-192.png',
-  '/dance-app/icons/icon-512.png'
+  '/SwingTrail/',
+  '/SwingTrail/index.html',
+  '/SwingTrail/pair.html',
+  '/SwingTrail/events.html',
+  '/SwingTrail/style.css',
+  '/SwingTrail/app.js',
+  '/SwingTrail/manifest.json',
+  '/SwingTrail/icons/icon-192.png',
+  '/SwingTrail/icons/icon-512.png'
 ];
 
 self.addEventListener('install', event => {
