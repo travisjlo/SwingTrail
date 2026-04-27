@@ -112,20 +112,20 @@
     "link": "https://www.tixr.com/groups/stoneysrockincountry/events/stoney-s-dance-showdown-qualifier-round-1-181814"
   },
   {
-    "title": "Dance Nash Aftermath",
-    "date": "May 8-10",
-    "style": ["MCS", "CSDC"],
-    "tags": ["MCS", "CSDC"],
-    "image": "images/dna.png",
-    "link": "https://www.danceplace.com/index/no/16408/DNA-2026-Nashville_+TN-United+States-Country+Swing+Dance+event"
-  },
-  {
     "title": "Country May Day",
     "date": "May 1-3",
     "style": ["MCS", "CSDC"],
     "tags": ["MCS", "CSDC"],
     "image": "images/qc.png",
     "link": "https://www.danceplace.com/index/no/16374/QC+Swing+_+Country+May+Day-2026-Charlotte_+NC-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Dance Nash Aftermath",
+    "date": "May 8-10",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/dna.png",
+    "link": "https://www.danceplace.com/index/no/16408/DNA-2026-Nashville_+TN-United+States-Country+Swing+Dance+event"
   },
   {
     "title": "Rowdy Fest",
