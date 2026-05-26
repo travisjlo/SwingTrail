@@ -264,6 +264,14 @@
     "link": "https://www.danceplace.com/index/no/15853/Utah+Dance+Fest-2026-Orem_+UT-United+States-Country+Dance+event"
   },
   {
+    "title": "Steal A Dance Lite",
+    "date": "Sept 18-20",
+    "style": ["MCS", "CSDC"],
+    "tags": ["MCS", "CSDC"],
+    "image": "images/sad.png",
+    "link": "https://www.danceplace.com/index/no/16910/Steal+A+Dance+Lite-2026-Tucson_+AZ-United+States-Country+Dance+event"
+  },
+  {
     "title": "Sac Town Hoedown",
     "date": "Sep 25-27",
     "style": ["MCS", "NCDC"],
@@ -310,14 +318,6 @@
     "tags": ["MCS", "CSDC"],
     "image": "images/swingtober.png",
     "link": "https://www.danceplace.com/index/no/16920/Swingtober+-2026-Orlando_+FL-United+States-Country+Swing+Dance+event"
-  },
-  {
-    "title": "Shinedown In The Shadows",
-    "date": "Oct 16-18",
-    "style": ["MCS", "NCDC"],
-    "tags": ["MCS", "NCDC"],
-    "image": "images/shinedown.png",
-    "link": "https://www.danceplace.com/index/no/16267/Shinedown+In+The+Shadows-2026-Jacksonville_+NC-United+States-Country+Dance+event"
   },
   {
     "title": "East Idaho Stomp Comp",
