@@ -192,6 +192,15 @@
     "link": "https://www.danceplace.com/index/no/16157/St_+Louis+Stomp-2026-St+Louis_+MO-United+States-Country+Dance+event"
   },
   {
+    "title": "Phoenix 4th of July",
+    "date": "July 2nd",
+    "style": ["WCS", "CSDC"],
+    "tags": ["WCS", "CSDC"],
+    "image": "images/p4j.png",
+    "link": "https://phoenix4thofjuly.com/register/"
+  },
+
+  {
     "title": "Yesss!! Nationals",
     "date": "Jul 16-19",
     "style": ["MCS", "NCDC"],
