@@ -176,14 +176,6 @@
     "link": "https://www.danceplace.com/index/no/15429/ShoreLINE+_+Country+Swing+High+Tide-2026-Sanford_+FL-United+States-Country+Dance+event"
   },
   {
-    "title": "Stoney's Dance Showdown Q2",
-    "date": "June 21",
-    "style": ["MCS", "NCDC"],
-    "tags": ["MCS", "NCDC"],
-    "image": "images/Stoneys.jpg",
-    "link": ""
-  },
-  {
     "title": "St.Louis Stomp",
     "date": "Jun 26-28",
     "style": ["MCS", "NCDC"],
@@ -199,7 +191,14 @@
     "image": "images/p4j.png",
     "link": "https://phoenix4thofjuly.com/register/"
   },
-
+  {
+    "title": "Stoney's Dance Showdown Q2",
+    "date": "July 12",
+    "style": ["MCS", "NCDC"],
+    "tags": ["MCS", "NCDC"],
+    "image": "images/Stoneys.jpg",
+    "link": "https://www.danceplace.com/book/it/16913"
+  },
   {
     "title": "Yesss!! Nationals",
     "date": "Jul 16-19",
@@ -359,6 +358,14 @@
     "tags": ["MCS", "CSDC"],
     "image": "images/csrev.png",
     "link": "https://www.danceplace.com/index/no/16115/Country+Swing+Revolution-2026-Boston_+MA-United+States-Country+Swing+Dance+event"
+  },
+  {
+    "title": "Northeast Swing Classic",
+    "date": "Nov 12-15",
+    "style": ["WCS", "CSDC"],
+    "tags": ["WCS", "CSDC"],
+    "image": "images/nesc.png",
+    "link": "https://www.northeastswingclassic.com/registration.php"
   },
   {
     "title": "Forever Country Dance Fest",
