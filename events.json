@@ -232,14 +232,6 @@
     "link": "https://arizonadanceclassic.com/registration"
   },
   {
-    "title": "Dogwood Heatwave",
-    "date": "Jul 30-Aug 2",
-    "style": ["MCS", "CSDC"],
-    "tags": ["MCS", "CSDC"],
-    "image": "images/heatwave.png",
-    "link": "https://www.danceplace.com/index/no/16741/Heatwave-2026-Norfolk_+VA-United+States-Country+Swing+Dance+event"
-  },
-  {
     "title": "Love Your Dance Summer Workshop & Comp",
     "date": "Aug 7-9",
     "style": ["MCS", "NCDC"],
@@ -270,6 +262,14 @@
     "tags": ["MCS", "CSDC"],
     "image": "images/ndf.png",
     "link": ""
+  },
+  {
+    "title": "South Bay Dance Fling",
+    "date": "Sep 7",
+    "style": ["WCS", "NCDC"],
+    "tags": ["WCS", "NCDC"],
+    "image": "images/southbay.png",
+    "link": "https://sbdf.dance/registration-for-sbdf-2025/"
   },
   {
     "title": "Utah Dance Fest",
